@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{\IeC {\textquestiondown }Qu\'e es un ambiente de escritorio?}{2}{0}{1}
+\beamer@sectionintoc {2}{KDE}{4}{0}{2}
+\beamer@sectionintoc {3}{GNOME}{6}{0}{3}
+\beamer@sectionintoc {4}{XFCE}{9}{0}{4}
+\beamer@sectionintoc {5}{Otros Entornos}{11}{0}{5}
+\beamer@sectionintoc {6}{\IeC {\textquestiondown }Preguntas?}{12}{0}{6}
